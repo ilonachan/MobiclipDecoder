@@ -39,7 +39,8 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="NAudio">
-      <HintPath>..\..\LibDSSound\DSSoundStudio\bin\Debug\NAudio.dll</HintPath>
+      <HintPath>.\NAudio.1.8.0\lib\net35\NAudio.dll</HintPath>
+<!--       <HintPath>..\..\LibDSSound\DSSoundStudio\bin\Debug\NAudio.dll</HintPath> -->
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Activities" />
